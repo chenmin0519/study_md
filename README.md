@@ -1,2 +1,1 @@
-# study_md
-学习的一些自己写的文档
+实例化application的时候构造方法里面设置熟悉会取出spring.factories中配置的对象名
